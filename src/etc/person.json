@@ -1,0 +1,22 @@
+{
+  "List": [
+    {
+      "id": 1,
+      "name": "Abhishek",
+      "age": 22,
+      "skill": "React"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "age": 24,
+      "skill": "Vue"
+    },
+    {
+      "id": 3,
+      "name": "Diana",
+      "age": 28,
+      "skill": "Js"
+    }
+  ]
+}
